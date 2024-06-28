@@ -1,0 +1,17 @@
+.basic {
+    font-family: Verdana, "DejaVu Sans",sans-serif;
+    background-color:pink;
+}
+
+.two{
+    font-size: 24px;
+}
+#id-one {
+    font-size: 36px;
+    color: blue;
+}
+#id-two {
+    font-weight: bold;
+    background-color: lightgreen;
+    font-size: 24px;
+}
